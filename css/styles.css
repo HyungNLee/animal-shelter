@@ -9,6 +9,7 @@
   width: 12%;
   border: 1px solid gray;
   float: right;
+  background-color: tan;
 }
 
 .column p {
@@ -31,4 +32,16 @@
   text-align: center;
   font-weight: bold;
   font-style: italic;
+}
+
+#column1 {
+  background-color: lightblue;
+}
+
+#column2 {
+  background-color: lightyellow;
+}
+
+#column3 {
+  background-color: lightgreen;
 }
